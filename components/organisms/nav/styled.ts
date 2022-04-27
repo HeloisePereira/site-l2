@@ -6,7 +6,7 @@ export const NavStyled = styled.nav`
   width: 100%;
   z-index: 60;
   color: ${colors.black};
-  background-color: ${colors.gray};
+  background-color: ${colors.strong_gray};
   &.white {
     background-color: transparent;
     color: white;
