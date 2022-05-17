@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "carousel": "^0.0.3",
-    "i18next": "^21.7.1",
+    "i18next": "^21.8.2",
     "next": "12.1.0",
     "next-intl": "^2.7.1",
     "react": "17.0.2",
