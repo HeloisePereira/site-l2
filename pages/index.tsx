@@ -26,3 +26,9 @@ const Home: NextPage = () => {
 };
 
 export default Home;
+
+export function getStaticProps({ locale }) {
+  return{
+    props:{messages: require(`../lang/${ locale }.json`)}
+  };
+}
