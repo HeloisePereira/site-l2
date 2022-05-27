@@ -20,6 +20,7 @@ const AllCases: NextPage = () => {
 
   return (
     <>
+    teste...
       <AllCasesPage />
     </>
   );
